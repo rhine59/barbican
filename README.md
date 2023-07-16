@@ -24,3 +24,4 @@ python manage.py migrate
 
 python manage.py createsuperuser \
 
+8.44 into Corey Schafer Part 3 https://www.youtube.com/watch?v=qDwdMDQ8oX4&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=3
