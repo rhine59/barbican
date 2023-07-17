@@ -1,7 +1,7 @@
 {% extends 'members/base.html' %}
 {% block content %}
     {% for member in members %}
-       <h1>{{ member.name }}</h1>
-       <p>Joined on {{ member.date_joined }} with email {{ member.email }}</p>
+        <h1>{{ member.name }}</h1>
+        <p>Joined on {{ member.date_joined }} with email {{ member.email }}</p>
     {% endfor %}
 {% endblock content %}
