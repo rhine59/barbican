@@ -6,7 +6,7 @@
 #python manage.py startapp members
 #python manage.py runserver
 
-rhine@Richard-MBP barbican % python manage.py runserver
+`python manage.py runserver`
 Watching for file changes with StatReloader
 Performing system checks...
 
