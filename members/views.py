@@ -22,5 +22,5 @@ def home(request):
     return render(request, 'members/home.html', context)
 
 def about(request):
-    return render(request, 'members/about.html')
+    return render(request, 'members/about.html', {'title': 'We have passed a title'})
 
