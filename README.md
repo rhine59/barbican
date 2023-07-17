@@ -12,7 +12,7 @@
 
 `python manage.py runserver`
 
-`Watching for file changes with StatReloader
+Watching for file changes with StatReloader
 Performing system checks...
 
 System check identified no issues (0 silenced).
@@ -24,7 +24,7 @@ July 16, 2023 - 15:17:55
 Django version 4.2.3, using settings 'barbican.settings'
 Starting development server at http://127.0.0.1:800
 Quit the server with CONTROL-C.
-`
+
 
 `python manage.py makemigrations`
 `python manage.py migrate`
