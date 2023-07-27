@@ -1,12 +1,14 @@
-`cd ~`
+`
+cd ~
+`
 
 `cd projects`
 
-`django-admin startproject barbican`
+`django-admin startproject chatu3a`
 
-`mv README.md ./barbican/`
+`mv README.md ./chatu3a/`
 
-`cd barbican/`
+`cd chatu3a/`
 
 `python manage.py startapp members`
 
@@ -21,7 +23,7 @@ You have 18 unapplied migration(s). Your project may not work properly until you
 Run 'python manage.py migrate' to apply them.
 
 July 16, 2023 - 15:17:55
-Django version 4.2.3, using settings 'barbican.settings'
+Django version 4.2.3, using settings 'chatu3a.settings'
 Starting development server at http://127.0.0.1:800
 Quit the server with CONTROL-C.
 
