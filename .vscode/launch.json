@@ -12,6 +12,7 @@
             "args": [
                 "runserver"
             ],
+            "console": "internalConsole",
             "django": true,
             "justMyCode": true
         }
