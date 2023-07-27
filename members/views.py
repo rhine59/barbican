@@ -11,7 +11,7 @@ members = [
         'id': '0002',
         'name': 'Jeanne Hine',
         'email': 'rhine59@gmail.com',
-        'date_joined': 'July 15 2023'
+        'date_joined': 'July 15 2023'ß
     }
 ]
 
