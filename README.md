@@ -14,6 +14,8 @@
 
 `source .venv/bin/activate`
 
+`deactivate`
+
 Watching for file changes with StatReloader
 Performing system checks...
 
